@@ -1,4 +1,5 @@
-[ {
+[ 
+{
     "id": 0,
     "name":"Hydra",
     "purpose": "attack",
@@ -6,7 +7,8 @@
     "CurrentVersion": "9.3",
     "Image": "https://www.kali.org/tools/hydra/images/hydra-logo.svg",
     "More info": "//www.kali.org/tools/hydra/"
-  },
+},
+
 {
     "id": 1,
     "name":"John",
@@ -15,14 +17,20 @@
     "CurrentVersion": "9.3",
     "Image": "https://www.kali.org/tools/hydra/images/hydra-logo.svg",
     "More info": "//www.kali.org/tools/hydra/"
-  },
-  {
-    "id": 1,
-    "name":"John",
+ },
+  
+ {
+    "id": 3,
+    "name":"sohn",
     "purpose": "attack",
-    "Type": "Dictionary",
-    "CurrentVersion": "9.3",
-    "Image": "https://www.kali.org/tools/hydra/images/hydra-logo.svg",
-    "More info": "Strom_Braker"
+    "Type": "water",
+    "CurrentVersion": "9.5",
+    "Image": "https://www.kali.org/tools/hydra",
+    "More info": "//www.kali.org/tools/hydra/",
   }
+ 
+  
 ]
+
+    
+  
