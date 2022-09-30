@@ -53,7 +53,8 @@
     "CurrentVersion": "6.25",
     "Image": "https://www.kali.org/tools/hashcat/images/hashcat-logo.svg",
     "More info": "https://www.kali.org/tools/hashcat/",
-  }
+  },
+
   
 ]
 
