@@ -45,9 +45,9 @@
     "CurrentVersion": "1.6",
     "Image": "https://www.aircrack-ng.org/img/movie_Redes_de_Ambicao.png",
     "More info": "https://www.aircrack-ng.org",
-  }
-{
- "id": 5,
+
+  },
+"id": 5,
     "name":"hashcat",
     "purpose": "password cracking",
     "Type": "Bruteforcing",
@@ -55,6 +55,9 @@
     "Image": "https://www.kali.org/tools/hashcat/images/hashcat-logo.svg",
     "More info": "https://www.kali.org/tools/hashcat/",
   },
+
+
+
 {
  "id": 6,
     "name":"Netsparker",
@@ -64,18 +67,9 @@
     "Image": "https://multipoint.eu.com/wp-content/uploads/2021/08/main-image-center-2x-1024x596.jpg",
     "More info": "https://multipoint.eu.com/netsparker/",
   },
-{
- "id": 7,
-    "name":"Ne",
-    "purpose": "cross-",
-    "Type": "Brut",
-    "CurrentVersion": "5",
-    "Image": "https://www.pexels.com/search/amazing/",
-    "More info": "https://www.amazon.in/Lou/dp/B075FZDHPZ",
-  }
 
    {
- "id": 8,
+ "id": 7,
     "name":"Invicti",
     "purpose": "It is an easy to use web application security scanner that can automatically find SQL Injection",
     "Type": "Bruteforcing",
@@ -83,6 +77,7 @@
     "Image": "https://bit.ly/35WwAOZ",
     "More info": "https://www.invicti.com/?utm_source=guru99.com&utm_medium=referral&utm_content=product+description&utm_campaign=generic+advert",
   } 
+
 
 
   
