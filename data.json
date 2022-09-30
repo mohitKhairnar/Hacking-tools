@@ -63,8 +63,16 @@
     "CurrentVersion": "4.8",
     "Image": "https://multipoint.eu.com/wp-content/uploads/2021/08/main-image-center-2x-1024x596.jpg",
     "More info": "https://multipoint.eu.com/netsparker/",
-  }
-
+  },
+   {
+ "id": 6,
+    "name":"Invicti",
+    "purpose": "It is an easy to use web application security scanner that can automatically find SQL Injection",
+    "Type": "Bruteforcing",
+    "CurrentVersion": "5.4",
+    "Image": "https://bit.ly/35WwAOZ",
+    "More info": "https://www.invicti.com/?utm_source=guru99.com&utm_medium=referral&utm_content=product+description&utm_campaign=generic+advert",
+  } 
 
   
 ]
