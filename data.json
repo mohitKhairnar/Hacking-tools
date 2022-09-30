@@ -105,7 +105,15 @@
     "More info": "https://www.invicti.com/",
   } ,
 
-
+{
+    "id": 12,
+    "name":"Hydra",
+    "purpose": "attack",
+    "Type": "Bruteforcing",
+    "CurrentVersion": "9.3",
+    "Image": "https://www.kali.org/tools/hydra/images/hydra-logo.svg",
+    "More info": "//www.kali.org/tools/hydra/"
+},
 
 
 
