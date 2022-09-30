@@ -45,9 +45,9 @@
     "CurrentVersion": "1.6",
     "Image": "https://www.aircrack-ng.org/img/movie_Redes_de_Ambicao.png",
     "More info": "https://www.aircrack-ng.org",
-
-  },
-"id": 5,
+  }
+{
+ "id": 5,
     "name":"hashcat",
     "purpose": "password cracking",
     "Type": "Bruteforcing",
@@ -55,9 +55,15 @@
     "Image": "https://www.kali.org/tools/hashcat/images/hashcat-logo.svg",
     "More info": "https://www.kali.org/tools/hashcat/",
   },
-
+{
+ "id": 5,
+    "name":"Netsparker",
+    "purpose": "cross-site scripting and SQL Injection",
+    "Type": "Bruteforcing",
+    "CurrentVersion": "4.8",
+    "Image": "https://multipoint.eu.com/wp-content/uploads/2021/08/main-image-center-2x-1024x596.jpg",
+    "More info": "https://multipoint.eu.com/netsparker/",
   }
-
 
 
   
