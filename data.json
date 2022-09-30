@@ -1,21 +1,25 @@
- {
+[ 
+{
     "id": 0,
     "name":"Hydra",
     "purpose": "attack",
     "Type": "Bruteforcing",
     "CurrentVersion": "9.3",
     "Image": "https://www.kali.org/tools/hydra/images/hydra-logo.svg",
-    "More info": "//www.kali.org/tools/hydra/",
-  },
+    "More info": "//www.kali.org/tools/hydra/"
+},
+
 {
-    "id": 2,
+    "id": 1,
     "name":"John",
     "purpose": "attack",
     "Type": "Bruteforcing",
     "CurrentVersion": "9.3",
     "Image": "https://www.kali.org/tools/hydra/images/hydra-logo.svg",
-    "More info": "//www.kali.org/tools/hydra/",
-  },{
+    "More info": "//www.kali.org/tools/hydra/"
+ },
+  
+ {
     "id": 3,
     "name":"sohn",
     "purpose": "attack",
@@ -24,3 +28,9 @@
     "Image": "https://www.kali.org/tools/hydra",
     "More info": "//www.kali.org/tools/hydra/",
   }
+ 
+  
+]
+
+    
+  
