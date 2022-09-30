@@ -85,6 +85,17 @@
     "CurrentVersion": "5.4",
     "Image": "https://bit.ly/35WwAOZ",
     "More info": "https://nmap.org/",
+
+  },
+{
+    "id": 10,
+    "name":"Metasploit",
+    "purpose": "find security vulnerabilities",
+    "Type": "Payload",
+    "CurrentVersion": "6.2.9",
+    "Image": "https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg",
+    "More info": "https://www.kali.org/tools/metasploit-framework/"
+}
   } ,
    {
  "id": 10,
@@ -114,6 +125,7 @@
     "Image": "https://www.google.com/search?q=current+version+of+kismet&sxsrf=ALiCzsZTUS6CBgYerTnnnRq66Rr9qbTpRA:1664562082542&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi3uIv9kL36AhWGwzgGHcuyCuEQ_AUoA3oECAIQBQ&biw=1292&bih=636&dpr=1#imgrc=masbEm32bZSD2M",
     "More info": "https://en.wikipedia.org/wiki/Kismet_(software)#:~:text=Kismet%20is%20a%20network%20detector,NetBSD%2C%20OpenBSD%2C%20and%20macOS.",
   } 
+
 
 
 
