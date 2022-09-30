@@ -76,7 +76,17 @@
     "CurrentVersion": "5.4",
     "Image": "https://bit.ly/35WwAOZ",
     "More info": "https://www.invicti.com/?utm_source=guru99.com&utm_medium=referral&utm_content=product+description&utm_campaign=generic+advert",
+  },
+   {
+ "id": 9,
+    "name":"Nmap",
+    "purpose": "Used in port scanning, one of the phases in ethical hacking, is the finest hacking software ever. ",
+    "Type": "Networking",
+    "CurrentVersion": "5.4",
+    "Image": "https://bit.ly/35WwAOZ",
+    "More info": "https://nmap.org/",
   } 
+
 
 
 
