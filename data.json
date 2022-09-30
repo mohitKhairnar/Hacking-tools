@@ -15,4 +15,12 @@
     "CurrentVersion": "9.3",
     "Image": "https://www.kali.org/tools/hydra/images/hydra-logo.svg",
     "More info": "//www.kali.org/tools/hydra/",
-  },
+  },{
+    "id": 3,
+    "name":"sohn",
+    "purpose": "attack",
+    "Type": "water",
+    "CurrentVersion": "9.5",
+    "Image": "https://www.kali.org/tools/hydra",
+    "More info": "//www.kali.org/tools/hydra/",
+  }
