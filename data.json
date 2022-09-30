@@ -65,7 +65,7 @@
     "More info": "https://multipoint.eu.com/netsparker/",
   },
 {
- "id": 578,
+ "id": 7,
     "name":"Ne",
     "purpose": "cross-",
     "Type": "Brut",
@@ -73,6 +73,16 @@
     "Image": "https://www.pexels.com/search/amazing/",
     "More info": "https://www.amazon.in/Lou/dp/B075FZDHPZ",
   }
+
+   {
+ "id": 8,
+    "name":"Invicti",
+    "purpose": "It is an easy to use web application security scanner that can automatically find SQL Injection",
+    "Type": "Bruteforcing",
+    "CurrentVersion": "5.4",
+    "Image": "https://bit.ly/35WwAOZ",
+    "More info": "https://www.invicti.com/?utm_source=guru99.com&utm_medium=referral&utm_content=product+description&utm_campaign=generic+advert",
+  } 
 
 
   
