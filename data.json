@@ -95,6 +95,16 @@
     "Image": "https://www.kali.org/get-kali/#kali-bare-metal",
     "More info": "https://www.kali.org/get-kali/#kali-bare-metal",
   } ,
+   {
+ "id": 11,
+    "name":"Invicti",
+    "purpose": "It detects Dead accurate vulnerability with the help of unique Proof-Based Scanning Technology.",
+    "Type": "Networking",
+    "CurrentVersion": "5.4",
+    "Image": "https://www.google.com/search?q=Invicti&rlz=1C1RXQR_enIN994IN994&sxsrf=ALiCzsbY8PgfHASRUgjY6x_ixXwJ2QBYkA:1664561540369&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjN7cf6jr36AhVC1zgGHYljDP4Q_AUoAnoECAMQBA&cshid=1664561584152410&biw=1536&bih=714&dpr=1.25#imgrc=jqZ0WsqyTLZ9-M",
+    "More info": "https://www.invicti.com/",
+  } ,
+
 
 
 
