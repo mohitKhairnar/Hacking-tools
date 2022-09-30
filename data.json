@@ -85,7 +85,16 @@
     "CurrentVersion": "5.4",
     "Image": "https://bit.ly/35WwAOZ",
     "More info": "https://nmap.org/",
-  } 
+  } ,
+   {
+ "id": 10,
+    "name":"Kali LInux",
+    "purpose": "Used in port scanning, one of the phases in ethical hacking, is the finest hacking software ever. ",
+    "Type": "Networking",
+    "CurrentVersion": "5.4",
+    "Image": "https://www.kali.org/get-kali/#kali-bare-metal",
+    "More info": "https://www.kali.org/get-kali/#kali-bare-metal",
+  } ,
 
 
 
