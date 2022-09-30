@@ -55,15 +55,7 @@
     "Image": "https://www.kali.org/tools/hashcat/images/hashcat-logo.svg",
     "More info": "https://www.kali.org/tools/hashcat/",
   },
-{
- "id": 6,
-    "name":"Wifite",
-    "purpose": "Wifi hacking",
-    "Type": "Deauthentication",
-    "CurrentVersion": "3.1",
-    "Image": "https://github.com/derv82/wifite.git",
-    "More info": "https://www.kali.org/tools/wifite/#:~:text=Wifite%20is%20a%20tool%20to,trusted%20to%20run%20without%20supervision.
-  },
+
 
   
 ]
