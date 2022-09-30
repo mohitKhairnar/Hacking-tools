@@ -23,4 +23,13 @@
     "CurrentVersion": "9.5",
     "Image": "https://www.kali.org/tools/hydra",
     "More info": "//www.kali.org/tools/hydra/",
+  },
+{
+    "id": 4,
+    "name":"wireshark",
+    "purpose": "sniffing",
+    "Type": "Bruteforcing",
+    "CurrentVersion": "3.6",
+    "Image": "https://www.wireshark.org/assets/theme-2015/images/wireshark_logo.png",
+    "More info": "https://www.wireshark.org/download.html",
   }
