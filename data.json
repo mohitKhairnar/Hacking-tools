@@ -85,7 +85,16 @@
     "CurrentVersion": "5.4",
     "Image": "https://bit.ly/35WwAOZ",
     "More info": "https://nmap.org/",
-  } 
+  },
+{
+    "id": 10,
+    "name":"Metasploit",
+    "purpose": "find security vulnerabilities",
+    "Type": "Payload",
+    "CurrentVersion": "6.2.9",
+    "Image": "https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg",
+    "More info": "https://www.kali.org/tools/metasploit-framework/"
+}
 
 
 
