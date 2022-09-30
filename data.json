@@ -45,6 +45,17 @@
     "CurrentVersion": "1.6",
     "Image": "https://www.aircrack-ng.org/img/movie_Redes_de_Ambicao.png",
     "More info": "https://www.aircrack-ng.org",
+
+  },
+"id": 5,
+    "name":"hashcat",
+    "purpose": "password cracking",
+    "Type": "Bruteforcing",
+    "CurrentVersion": "6.25",
+    "Image": "https://www.kali.org/tools/hashcat/images/hashcat-logo.svg",
+    "More info": "https://www.kali.org/tools/hashcat/",
+  },
+
   }
 
 
